@@ -5,7 +5,7 @@
 - 🏢 I am currently working as a software developer 
 - 🎓 Studies for systems engineering at [UTN](https://www.frro.utn.edu.ar/carr_ing_sistemas.php)
 - 🏡 Lives in **Argentina**
-- ⚡
+<!-- - ⚡ -->
 
 <br>
 
@@ -13,7 +13,8 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@facundo-f-192666118")]([https://www.linkedin.com/in/afacundo-f-192666118/](https://www.linkedin.com/in/facundo-f-192666118/)) [![@facundo.finelli1@hotmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@facundo.finelli1@hotmail.com")](facundo.finelli1@hotmail.com)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/facundo-f-192666118/)
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:facundo.finelli1@hotmail.com)
 
 <br>
 
@@ -31,7 +32,7 @@
 
 <br>
 
-
+<!--
 <div align="center" width="100">
   <h1>Stack</h1>
     </br>
@@ -62,7 +63,6 @@
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Frameworks -->
   </br>
   <h3>Frameworks</h3>
   <img
@@ -86,7 +86,6 @@
     alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Storages -->
   </br>
   <h3>Storages</h3>
   <img
@@ -95,7 +94,6 @@
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Tools -->
   </br>
   <h3>Tools</h3>
   <img
@@ -123,3 +121,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
+-->
